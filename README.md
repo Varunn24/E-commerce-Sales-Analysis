@@ -65,7 +65,7 @@ E-commerce-Sales-Analysis/
 ## 📈 Key Visualizations
 
 ### 🔹 Sales Trend Over Time
-![Sales Trend](images/sales_trend.png)
+![Sales Trend](sales_trend.png)
 
 ### 🔹 Category-wise Sales Distribution
 ![Category Sales](images/category_sales.png)
