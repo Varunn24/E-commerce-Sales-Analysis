@@ -6,8 +6,13 @@ This project analyzes e-commerce sales data to uncover insights such as revenue 
 
 E-commerce-Sales-Analysis/
 ├── Dataset/
+
 │ └── ... # Raw and cleaned data
+
 ├── Jupyter Notebook/
+
 │ └── sales_analysis.ipynb
+
 ├── images/ # Visualizations and snapshots
+
 ├── README.md # Project overview
