@@ -16,3 +16,33 @@ E-commerce-Sales-Analysis/
 ├── images/ # Visualizations and snapshots
 
 ├── README.md # Project overview
+
+
+
+
+## 🎯 Project Goals
+
+- Perform exploratory data analysis on e-commerce sales data.
+- Identify trends in sales and revenue over time.
+- Analyze top-selling products, categories, and customer behavior.
+- Visualize key performance indicators (KPIs) and insights.
+
+## 🧠 Analysis Overview
+
+- Data cleaning and preprocessing.
+- Time series analysis of total sales over time.
+- Category-wise revenue and sales breakdown.
+- Customer purchase behavior insights.
+- Visualizations: bar charts, line graphs, heatmaps etc.
+
+## 📈 Tools & Technologies
+
+- **Python** (Pandas, NumPy, Matplotlib, Seaborn)
+- **Jupyter Notebook** for interactive analysis
+- (Optional) **Power BI / Tableau** for advanced dashboards
+
+## 🛠 How to Use
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Varunn24/E-commerce-Sales-Analysis.git
