@@ -1,94 +1,91 @@
-# E-commerce Sales Analysis
+# 📊 E-commerce Sales Analysis
 
-This project analyzes e-commerce sales data to uncover insights such as revenue trends, top-selling products, customer behavior, and other key business metrics.
+A complete data analysis project focused on understanding **sales performance**, **customer behavior**, and **product trends** using real-world e-commerce data. The project demonstrates data cleaning, exploratory data analysis (EDA), and insightful visualizations.
 
-## 📂 Repository Structure
+---
 
+## 🎯 Objectives
+
+* Analyze overall sales and revenue trends
+* Identify top-performing products and categories
+* Understand customer purchasing behavior
+* Generate actionable business insights
+
+---
+
+## 🗂 Project Structure
+
+```
 E-commerce-Sales-Analysis/
-├── Dataset/
-
-│ └── ... # Raw and cleaned data
-
-├── Jupyter Notebook/
-
-│ └── sales_analysis.ipynb
-
-├── images/ # Visualizations and snapshots
-
-├── README.md # Project overview
-
-
-
-
-## 🎯 Project Goals
-
-- Perform exploratory data analysis on e-commerce sales data.
-- Identify trends in sales and revenue over time.
-- Analyze top-selling products, categories, and customer behavior.
-- Visualize key performance indicators (KPIs) and insights.
-
-## 🧠 Analysis Overview
-
-- Data cleaning and preprocessing.
-- Time series analysis of total sales over time.
-- Category-wise revenue and sales breakdown.
-- Customer purchase behavior insights.
-- Visualizations: bar charts, line graphs, heatmaps etc.
-
-## 📈 Tools & Technologies
-
-- **Python** (Pandas, NumPy, Matplotlib, Seaborn)
-- **Jupyter Notebook** for interactive analysis
-- (Optional) **Power BI / Tableau** for advanced dashboards
-
-## 🛠 How to Use
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Varunn24/E-commerce-Sales-Analysis.git
-
-
-
-
+│
+├── Dataset/              # Raw & cleaned datasets
+├── Jupyter Notebook/     # Python analysis notebook
+├── images/               # Charts & visuals
+├── README.md
+```
 
 ---
 
-## 🛠 Tools & Technologies Used
+## 🛠 Tools & Technologies
 
-- **Python**
-- **Pandas & NumPy** – Data cleaning and transformation  
-- **Matplotlib & Seaborn** – Data visualization  
-- **Jupyter Notebook** – Interactive analysis  
+* **Python**
+* **Pandas & NumPy** – Data preprocessing and analysis
+* **Matplotlib & Seaborn** – Data visualization
+* **Jupyter Notebook** – Interactive analysis
 
 ---
 
-## 📈 Key Visualizations
+## 📈 Visual Insights
 
 ### 🔹 Sales Trend Over Time
-![Sales Trend](SalesCatagory.png)
+
+![Sales Trend](images/sales_trend.png)
 
 ### 🔹 Category-wise Sales Distribution
+
 ![Category Sales](images/category_sales.png)
 
 ### 🔹 Top Selling Products
-![Top Products](jay.png)
 
-> 📌 *All charts are generated directly from the dataset using Python.*
-
----
-
-## 🔍 Analysis Highlights
-
-- Identified **monthly sales growth and seasonal patterns**
-- Found **top revenue-generating product categories**
-- Analyzed **customer purchase frequency**
-- Highlighted products contributing most to total sales
+![Top Products](images/top_products.png)
 
 ---
 
-## ▶️ How to Run the Project
+## 🔍 Key Insights
 
-1. Clone the repository  
-   ```bash
-   git clone https://github.com/Varunn24/E-commerce-Sales-Analysis.git
+* Observed monthly and seasonal sales patterns
+* Identified high-revenue product categories
+* Highlighted top-selling products contributing most to total sales
+* Analyzed customer order frequency and behavior
 
+---
+
+## ▶️ How to Run
+
+1. Clone the repository
+
+```bash
+git clone https://github.com/Varunn24/E-commerce-Sales-Analysis.git
+```
+
+2. Open Jupyter Notebook
+
+```bash
+jupyter notebook
+```
+
+3. Run the analysis notebook step by step
+
+---
+
+## 📌 Conclusion
+
+This project provides a clear understanding of e-commerce sales data using structured analysis and visual storytelling. It can be extended with **Power BI / Tableau dashboards** or **predictive modeling**.
+
+---
+
+## 👤 Author
+
+**Varun Chaudhari**
+Data Analytics & Machine Learning Enthusiast
+GitHub: [https://github.com/Varunn24](https://github.com/Varunn24)
