@@ -71,7 +71,7 @@ E-commerce-Sales-Analysis/
 ![Category Sales](images/category_sales.png)
 
 ### 🔹 Top Selling Products
-![Top Products](images/top_products.png)
+![Top Products](jay.png)
 
 > 📌 *All charts are generated directly from the dataset using Python.*
 
