@@ -135,7 +135,7 @@ fig.show()
 - End-of-year profitability suggests increased consumer spending, emphasizing the need for stock readiness and marketing efforts.
 
 ### 5️⃣ Profit Analysis by Category
-#### 📜 Code:
+#### 📜 Code: 
 ```python
 profit_by_category = data.groupby('Category')['Profit'].sum().reset_index()
 
