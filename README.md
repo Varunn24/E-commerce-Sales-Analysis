@@ -427,7 +427,6 @@ plt.show()
 - Standard Class: Has the longest average delivery time at about 5 days, likely being the most cost-effective option.
 
 #### 🔍 Key Takeaways:
-
 - Service Efficiency: Same Day and First Class shipping modes are critical for time-sensitive deliveries and likely enhance customer satisfaction.
 - Customer Segmentation: Different delivery modes cater to distinct customer priorities—urgency for Same Day and First Class, cost savings for Standard Class.
 - Optimization Opportunity: Standard Class delivery time could be analyzed for efficiency improvements without significantly increasing costs.
